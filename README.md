@@ -1,11 +1,5 @@
 # Bienvenidos al Github
-<div style="background-color: #e0f7fa; padding: 20px; border-radius: 10px; text-align: center;">
-  <h1 style="color: #00796b; margin-bottom: 10px;">RCRC</h1>
-  <h2 style="color: #004d40; margin-bottom: 20px;">¡Apasionado de Data Science!</h2>
-  <p style="color: #004d40;">Me encanta por transformar datos en conocimientos valiosos, utilizando técnicas avanzadas de análisis de datos y machine learning. Siempre en busca de nuevos desafíos y oportunidades para aprender y crecer. ¡Cada dato cuenta! :)</p>
-</div>
-<br/>
-
+![Texto alternativo](RonaldBanner.png)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-roque-b8788a17a)
 
 ### Skills
